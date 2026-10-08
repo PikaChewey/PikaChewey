@@ -1,4 +1,4 @@
-# hi, i’m bryan :)
+# hey, i’m bryan
 
 i'm a first year uw cs student, prev intern @ rbc, and i like making roblox games !
 
